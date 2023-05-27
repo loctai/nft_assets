@@ -1,7 +1,7 @@
 {
   "name": "Digital Symphony",
   "description": "A mesmerizing digital artwork that combines vibrant colors and abstract shapes to evoke a sense of harmony and energy.",
-  "image": "https://www.example.com/artworks/digital_symphony.png",
+  "image": "https://raw.githubusercontent.com/loctai/nft_assets/main/collection.png",
   "attributes": [
     {
       "trait_type": "Artist",
