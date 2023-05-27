@@ -1,0 +1,23 @@
+{
+  "name": "Cosmic Dreams",
+  "description": "An ethereal digital artwork that explores the beauty of the cosmos through a mix of surreal imagery and celestial colors.",
+  "image": "https://raw.githubusercontent.com/loctai/nft_assets/main/1.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Emily Anderson"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2022"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 5"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Surreal"
+    }
+  ]
+}
