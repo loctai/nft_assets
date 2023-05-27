@@ -1,0 +1,23 @@
+{
+  "name": "Digital Symphony",
+  "description": "A mesmerizing digital artwork that combines vibrant colors and abstract shapes to evoke a sense of harmony and energy.",
+  "image": "https://www.example.com/artworks/digital_symphony.png",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "John Smith"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2023"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 10"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Abstract"
+    }
+  ]
+}
