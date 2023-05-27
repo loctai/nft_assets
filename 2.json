@@ -1,0 +1,23 @@
+{
+  "name": "Nature's Symphony",
+  "description": "A captivating digital artwork that depicts the harmony and interconnectedness of nature, with a vibrant color palette and organic forms.",
+  "image": "https://raw.githubusercontent.com/loctai/nft_assets/main/2.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "Michael Carter"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2023"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "1 of 8"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Abstract"
+    }
+  ]
+}
