@@ -1,0 +1,44 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Artist",
+            "value": "Michael Carter"
+          },
+          {
+            "trait_type": "Year Created",
+            "value": "2023"
+          },
+          {
+            "trait_type": "Edition",
+            "value": "1 of 8"
+          },
+          {
+            "trait_type": "Style",
+            "value": "Abstract"
+          }
+    ],
+    "collection": {
+        "family": "Digital Symphony",
+        "name": "Digital Symphony"
+    },
+    "description": "A mesmerizing digital artwork that combines vibrant colors and abstract shapes to evoke a sense of harmony and energy.",
+    "external_url": "https://DigitalSymphony.com",
+    "name": "Nature's Symphony",
+    "properties": {
+        "creators": [
+            {
+                "address": "DKuKT9AX9tmUR8K7M9nqLkRxAkpGyT6Z96VNa5GBd4MV",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "type": "image/png",
+                "url": "https://raw.githubusercontent.com/loctai/nft_assets/main/3.jpg"
+            }
+        ]
+    },
+    "seller_fee_basis_points": 420,
+    "symbol": "DS",
+    "image": "https://raw.githubusercontent.com/loctai/nft_assets/main/3.jpg"
+}
