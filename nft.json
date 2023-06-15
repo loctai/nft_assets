@@ -1,0 +1,14 @@
+{
+  "name": "First NFT",
+  "symbol": "MFC",
+  "uri": "https://raw.githubusercontent.com/loctai/nft_assets/main/nft.json",
+  "image": "https://raw.githubusercontent.com/loctai/nft_assets/main/1.png",
+  "sellerFeeBasisPoints": 0,
+  "creators": [
+    {
+      "address": "JgL2o9nHk9EYtB3XcZTLNqvxyAtVZqbgTjMJsYdnmmL",
+      "verified": 1,
+      "share": 100
+    }
+  ]
+}
